@@ -1,0 +1,48 @@
+﻿ 
+
+Raport wygenerowano: Tue May 15 17:18:48 2018
+1526397528 seconds since the Epoch
+
+Średnia zajętość wyniosła: 86%
+Łącznie zapakowano : 100 kontenerów
+Na statek o id: 1 zapakowano 20 kontenerów zajmując przy tym100% powierzchni statku
+Na statek o id: 2 zapakowano 16 kontenerów zajmując przy tym99.1071% powierzchni statku
+Na statek o id: 3 zapakowano 29 kontenerów zajmując przy tym98.5333% powierzchni statku
+Na statek o id: 4 zapakowano 18 kontenerów zajmując przy tym89.372% powierzchni statku
+Na statek o id: 5 zapakowano 17 kontenerów zajmując przy tym47.4074% powierzchni statku
+
+
+Raport wygenerowano: Tue May 15 17:20:40 2018
+1526397640 seconds since the Epoch
+
+Średnia zajętość wyniosła: 86%
+Łącznie zapakowano : 100 kontenerów
+Na statek o id: 1 zapakowano 20 kontenerów zajmując przy tym100% powierzchni statku
+Na statek o id: 2 zapakowano 16 kontenerów zajmując przy tym98.5714% powierzchni statku
+Na statek o id: 3 zapakowano 29 kontenerów zajmując przy tym98.5333% powierzchni statku
+Na statek o id: 4 zapakowano 18 kontenerów zajmując przy tym90.0966% powierzchni statku
+Na statek o id: 5 zapakowano 17 kontenerów zajmując przy tym48.5185% powierzchni statku
+
+
+Raport wygenerowano: Tue May 15 17:21:37 2018
+1526397697 seconds since the Epoch
+
+Średnia zajętość wyniosła: 0%
+Łącznie zapakowano : 100 kontenerów
+Na statek o id: 1 zapakowano 0 kontenerów zajmując przy tym0% powierzchni statku
+Na statek o id: 2 zapakowano 0 kontenerów zajmując przy tym0% powierzchni statku
+Na statek o id: 3 zapakowano 0 kontenerów zajmując przy tym0% powierzchni statku
+Na statek o id: 4 zapakowano 0 kontenerów zajmując przy tym0% powierzchni statku
+Na statek o id: 5 zapakowano 0 kontenerów zajmując przy tym0% powierzchni statku
+
+
+Raport wygenerowano: Tue May 15 17:21:58 2018
+1526397718 seconds since the Epoch
+
+Średnia zajętość wyniosła: 86%
+Łącznie zapakowano : 100 kontenerów
+Na statek o id: 1 zapakowano 20 kontenerów zajmując przy tym100% powierzchni statku
+Na statek o id: 2 zapakowano 16 kontenerów zajmując przy tym98.5714% powierzchni statku
+Na statek o id: 3 zapakowano 29 kontenerów zajmując przy tym98.5333% powierzchni statku
+Na statek o id: 4 zapakowano 18 kontenerów zajmując przy tym90.0966% powierzchni statku
+Na statek o id: 5 zapakowano 17 kontenerów zajmując przy tym48.5185% powierzchni statku

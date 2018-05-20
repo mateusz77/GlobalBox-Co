@@ -1,0 +1,299 @@
+#include <iostream>
+#include "projekt.h"
+#include <array>
+#include <chrono>
+#include <ctime>
+#include <time.h>
+#include <windows.h>
+#include <cstdlib>
+#include <sstream>
+#include <vector>
+#include <algorithm>
+#include <numeric>
+
+using namespace std;
+
+
+int main()
+{
+    int element = 0; //powinno byc 0
+     bool statekPelny = false;
+    // bool czymamiejsce = false;
+      int dem = 0;
+
+    srand(time(NULL));
+    auto now     = std::chrono::system_clock::now();
+
+    // transform the time into a duration since the epoch
+    auto epoch   = now.time_since_epoch();
+
+
+    ////////////////////////generujê statki
+    Ship statki[5];
+    for(int f  = 0; f<5; f++)
+    {
+        statki[f].id = f+1;
+        statki[f].losujStatek();
+        statki[f].obliczPole();
+
+    }
+    ////////////////////////losujê 100 kontenerów i zapisujê do pliku
+    vector<Contener> lista;                                                                      // gwiazdka
+    vector<Contener>::iterator iteratorlisty = lista.begin();
+
+
+    Contener contener[100];
+
+    // contener[1].wyczysc();//czyœci plik z kontenerami
+
+    for(int i = 0; i<100 ; i++)
+    {
+        contener[i].wolny = true;
+
+        contener[i].id = i+1;
+        contener[i].losuj();
+        contener[i].obliczPole();
+
+
+        contener[i].zapisz();
+
+        //  lista.push_back( new Contener());
+
+
+        contener[i].pokazKontener();
+
+        if(contener[i].wolny)
+            cout <<"jestem Obiektem o numerze id: "<< contener[i].id<<contener[i].field<< endl;
+        cout<<"moje pole:"<<contener[i].field<<endl;
+    }
+
+
+
+
+
+
+
+
+
+
+///////////////////////////sprawdza ilosc kontenerów i wypisuje na ekran
+    int ix = sprawdzilosc();
+
+////////////////wczytanie i wypisanie na ekran kontenerów - usówa wszystkie z pliku
+
+
+    Contener kontener;
+    for(int i = 0 ; i < 100 ; i++)
+    {
+
+        kontener.id = i+1;
+        kontener.wczytajKontener();
+       // kontener.pokazKontener();
+        kontener.obliczPole();
+        lista.push_back( Contener(kontener.id,kontener.width,kontener.length) );
+        lista[i].obliczPole();
+
+    }
+
+
+
+    cout << "dupa dupa teraz ja tu sortujeeeeeeeeee" <<endl<<endl;
+    cout<<"kur³a"<<lista.size()<<endl;
+    //for(iteratorlisty;iteratorlisty != lista.end(); iteratorlisty++){
+//          cout <<""<< (*iteratorlisty)<<endl;  //gwiazdka
+    //  cout << ""<< (*iteratorlisty).id<<endl;
+    //   cout << " " << iteratorlisty->field;
+    //}
+
+    //LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLsortowanie
+
+    std::sort(lista.begin(),
+              lista.end(),
+              [](const Contener& lhs, const Contener& rhs)
+    {
+        return lhs.field > rhs.field;
+    });
+    // sprawdzaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaam
+    /*
+        int kret = 0;
+            while(kret<50){
+               cout<<"pole"<<lista[kret].field<<endl;
+               cout<<"le"<<lista[kret].length<<endl;
+               cout<<"wi"<<lista[kret].width<<endl;
+               kret++;
+            }
+
+    */
+
+
+//std::sort(kontener, kontener + 100,[](Contener & one, Contener & two){return kontener[one].field < kontener[two].field;});
+
+
+    int pipi = 0;//iterator glownego while
+
+    cout<<"rozmiar listy"<<lista.size()<<endl;
+
+    /***********************************************************************************AlGO***********************************************************************************/
+    for(int statek = 0 ; statek<1; statek++)
+    {
+        cout<<"pole statku"<<statek<<" to : " <<statki[statek].field<<endl;
+
+        int len = statki[statek].length;
+        int wid = statki[statek].width;
+
+        int plansza[len][wid];
+
+        cout<<"pole planszy"<<sizeof(plansza)/sizeof(plansza[0][0])<<"len"<<len<<"wid"<<wid<<endl;
+
+        for (int j=0; j<wid; j++)
+            for (int i=0; i<len; i++)
+                plansza[i][j] = 0;
+        //int element = 0; //powinno byc 0 przeniesiony na pocz maina
+        //bool statekPelny = false; //tez
+       bool koniec_listy = false;
+
+
+        int znacznik[2];
+
+        znacznik[0] = 0;
+        znacznik[1] = 0;
+
+        //int dem = 0;  // pomaga w uk³adaniu kontenerów
+
+        /*przesówam znacznik do momentu a¿ znajdzie miejsce dla mojego kontenera(wyj¹tek od nie zmieszczenia siê )
+        umieszczam kontener i przesówam znacznik(lekka optymalizacja, jeœli nie znajdzie to jedzie od nowa)
+        jeœli brak elementu dla ostatniego elementu listy koñczê uk³adanie i zabieram siê za nastêpny statek
+
+        */
+
+        while(!statekPelny){
+            bool czymamiejsce = false;
+
+            while(1){
+                element = 0;  //segmentation fault
+                cout<<"poczwhileeee"<<endl;
+                for(int kek = 0 ; kek<statki[statek].width; kek++){            //szukam miejsca znacznikowi
+                    for(int lol = 0+ dem; lol<statki[statek].length; lol++){
+                        if(plansza[lol][kek] == 0){             //jeli w planszy jest 0 to ustawiam tam znacznik sprawdzam , czy mój kontener sie zmieœci
+                            znacznik[0] = kek;
+                            znacznik[1] = lol;
+/*
+                            if(znacznik[0]==statki[statek].width){    //      if(znacznik[0]==statki[statek].width ||znacznik[1]==statki[statek].length){
+                                cout<<"przepelnienieeeeee"<<endl;
+                                dem +=10;                                                   ////////////////////????
+                            }
+
+ */   //w sumie to nie potrzebne
+                    if(lista[element].wolny){
+
+                        if(element<lista.size()-1){   //czy nie wychodzê poza zakres listy
+                                int ink = 0;      //licznik wolnych kwadratów o wartoœci 0
+                                                       //jeœli  kontener jest wolny to czy pole na statku jest dostêpne jeszcze od miejsca znacznika
+                                    /*czy mam na tyle miejsca*/
+                                    for (int j=0; j<lista[element].width; j++){
+                                        for (int i=0; i<lista[element].length; i++){
+                                            if(plansza[znacznik[0]+i][znacznik[1]+j]==0){
+                                                ink++;
+                                            }
+                                            if(ink == lista[element].field){
+                                                czymamiejsce = true;
+                                                //element++;                                        //////////nic mi to nie da
+                                                cout<<"MAAAAAAAAAAAAAAAAAAAAAM miejsce "<<endl;
+                                                break;
+                                            }
+                                        }
+                                        if(czymamiejsce){
+                                       //         cout<<"mam miejsce z 204 linii"<<czymamiejsce<<endl;
+                                                break;
+                                        }
+                                    }
+
+
+
+                            }
+                            else{
+
+                                cout<<"dotar³em na koniec listy kontenerów"<<endl;
+                                koniec_listy = true;
+
+                                int kret = 0;
+                                    while(kret<lista.size()){
+                                        if(lista[kret].wolny == true){
+                                            cout<<kret<<endl;
+                                        }
+                                       kret++;
+                                       element = 0;
+
+                                    }
+                                break; //wywalam sie z wewn fora jak koniec listy kontenerów piatek 00:50 dalej nawet jak znajdzie to nie poprawia albo zapisuje stare miejsca
+
+                            }
+
+                            cout<<"czymamiejsce tu "<<czymamiejsce<<" ele "<<element<<" wymiary kontenera "<<lista[element].width<<" "<<lista[element].length<<" "<<lista[element].field <<endl;
+                            cout<<"statki length "<<statki[statek].length<<" lol: "<<lol<<" kek: "<<kek<<endl;
+                            if (czymamiejsce){                                   //jeœli ma miejsce na statku to wype³nij statek i zatrudnij kontener,
+                                for (int j=0; j<lista[element].width; j++)
+                                    for (int i=0; i<lista[element].length; i++)
+                                        plansza[znacznik[0]+i][znacznik[1]+j] = 1;  // zamiana i na j i na odwrót piatek 00:24 bo znacznik[0] to width wklada kontenery w to samo miejsce cos 00: 30 wróci³em
+                                lista[element].wolny = false;
+
+
+                            }
+                             if(czymamiejsce){
+                                for (int j=0; j<wid; j++){        ////////////////// wypisz plansze
+                                    for (int i=0; i<len; i++){
+                                        cout<<plansza[i][j];
+                                    }
+                                    cout<<endl;
+                                }
+                                cout<<endl<<endl;               //////////////////
+                            }
+                           if(czymamiejsce){
+                            break; //jeœli znalazlem miejsce to ju¿ wychodzê z lol i kek
+                           }
+
+                            }
+                                else{
+                                    element++;    //on siê jakimœ chujem nw co kurde robii :?
+                                }                                        //???
+                        }
+                    }//koniec for lol wewn
+                    cout<<"koniec listy: "<<koniec_listy<<endl;
+                    if(koniec_listy) break;
+                    if(czymamiejsce){
+                        break;
+                    }
+                }//koniec for kek zewn
+
+                cout<<"czymamiejsce"<<czymamiejsce<<endl; /******************************************************/
+
+                break;
+            }
+
+            if(statekPelny) break;   //kiedy statek bêdzie pelen - ostatni kontener do niego nie wejdzie elementy siê skoñczy³y
+
+        }
+
+        pipi++;
+
+
+
+    }
+
+
+
+/*int zajetosc = 0;
+
+    for(int p; p<100;p++)
+    {
+        if(!lista[p].wolny){
+            zajetosc++;
+        }
+    }
+                                                               wtffffffffff jak to wlacze to nie dziala
+    cout<<"zajêto "<<zajetosc<< "kontenetów z listy"<<endl;
+
+
+*/
+    return 0;
+}

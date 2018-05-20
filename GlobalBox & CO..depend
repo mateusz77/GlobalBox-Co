@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1526399048 source:c:\users\ciasteczko\desktop\io\globalbox & co\globalbox & co\main.cpp
+	<iostream>
+	"projekt.h"
+	<array>
+	<chrono>
+	<ctime>
+	<time.h>
+	<windows.h>
+	<cstdlib>
+	<sstream>
+	<vector>
+	<algorithm>
+	<numeric>
+
+1526401234 source:c:\users\ciasteczko\desktop\io\globalbox & co\globalbox & co\projekt.cpp
+	<iostream>
+	"projekt.h"
+	<fstream>
+	<cstdlib>
+	<array>
+	<sstream>
+	<iterator>
+	<algorithm>
+	<vector>
+	<cstdio>
+
+1526397359 c:\users\ciasteczko\desktop\io\globalbox & co\globalbox & co\projekt.h
+	<iostream>
+	<array>
+	<ctime>
+	<time.h>
+	<chrono>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<vector>
+
+1526398993 source:c:\users\ciasteczko\desktop\io\globalbox & co\globalbox & co\generator.cpp
+	<iostream>
+	"projekt.h"
+	<fstream>
+	<cstdlib>
+	<array>
+	<sstream>
+	<iterator>
+	<algorithm>
+	<vector>
+	<cstdio>
+

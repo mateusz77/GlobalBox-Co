@@ -1,0 +1,340 @@
+﻿ polecenie pakowania z  Tue May 15 17:18:48 2018
+
+Na statek o id: 1 należy zapakować 20 kontenerów zajmując przy tym100% powierzchni statku. Poniżej przedstawiono ich położenie
+kontener o id: 62 zapakować w miejscu mającym początek na  0metrze szerokości oraz8metrze długości statku
+kontener o id: 70 zapakować w miejscu mającym początek na  0metrze szerokości oraz15metrze długości statku
+kontener o id: 1 zapakować w miejscu mającym początek na  8metrze szerokości oraz15metrze długości statku
+kontener o id: 15 zapakować w miejscu mającym początek na  0metrze szerokości oraz1metrze długości statku
+kontener o id: 73 zapakować w miejscu mającym początek na  9metrze szerokości oraz0metrze długości statku
+kontener o id: 8 zapakować w miejscu mającym początek na  0metrze szerokości oraz22metrze długości statku
+kontener o id: 44 zapakować w miejscu mającym początek na  9metrze szerokości oraz9metrze długości statku
+kontener o id: 76 zapakować w miejscu mającym początek na  14metrze szerokości oraz15metrze długości statku
+kontener o id: 13 zapakować w miejscu mającym początek na  15metrze szerokości oraz0metrze długości statku
+kontener o id: 49 zapakować w miejscu mającym początek na  8metrze szerokości oraz24metrze długości statku
+kontener o id: 21 zapakować w miejscu mającym początek na  17metrze szerokości oraz8metrze długości statku
+kontener o id: 85 zapakować w miejscu mającym początek na  17metrze szerokości oraz23metrze długości statku
+kontener o id: 98 zapakować w miejscu mającym początek na  0metrze szerokości oraz0metrze długości statku
+kontener o id: 36 zapakować w miejscu mającym początek na  0metrze szerokości oraz7metrze długości statku
+kontener o id: 16 zapakować w miejscu mającym początek na  6metrze szerokości oraz0metrze długości statku
+kontener o id: 17 zapakować w miejscu mającym początek na  14metrze szerokości oraz23metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:18:48 2018
+
+Na statek o id: 2 należy zapakować 16 kontenerów zajmując przy tym99.1071% powierzchni statku. Poniżej przedstawiono ich położenie
+kontener o id: 58 zapakować w miejscu mającym początek na  0metrze szerokości oraz14metrze długości statku
+kontener o id: 72 zapakować w miejscu mającym początek na  0metrze szerokości oraz1metrze długości statku
+kontener o id: 89 zapakować w miejscu mającym początek na  0metrze szerokości oraz21metrze długości statku
+kontener o id: 38 zapakować w miejscu mającym początek na  1metrze szerokości oraz8metrze długości statku
+kontener o id: 37 zapakować w miejscu mającym początek na  7metrze szerokości oraz0metrze długości statku
+kontener o id: 32 zapakować w miejscu mającym początek na  7metrze szerokości oraz14metrze długości statku
+kontener o id: 14 zapakować w miejscu mającym początek na  7metrze szerokości oraz21metrze długości statku
+kontener o id: 2 zapakować w miejscu mającym początek na  9metrze szerokości oraz7metrze długości statku
+kontener o id: 30 zapakować w miejscu mającym początek na  13metrze szerokości oraz0metrze długości statku
+kontener o id: 26 zapakować w miejscu mającym początek na  13metrze szerokości oraz12metrze długości statku
+kontener o id: 82 zapakować w miejscu mającym początek na  14metrze szerokości oraz18metrze długości statku
+kontener o id: 18 zapakować w miejscu mającym początek na  17metrze szerokości oraz5metrze długości statku
+kontener o id: 24 zapakować w miejscu mającym początek na  18metrze szerokości oraz18metrze długości statku
+kontener o id: 28 zapakować w miejscu mającym początek na  19metrze szerokości oraz10metrze długości statku
+kontener o id: 46 zapakować w miejscu mającym początek na  18metrze szerokości oraz26metrze długości statku
+kontener o id: 77 zapakować w miejscu mającym początek na  22metrze szerokości oraz18metrze długości statku
+kontener o id: 23 zapakować w miejscu mającym początek na  7metrze szerokości oraz27metrze długości statku
+kontener o id: 64 zapakować w miejscu mającym początek na  21metrze szerokości oraz0metrze długości statku
+kontener o id: 97 zapakować w miejscu mającym początek na  0metrze szerokości oraz28metrze długości statku
+kontener o id: 27 zapakować w miejscu mającym początek na  23metrze szerokości oraz10metrze długości statku
+kontener o id: 93 zapakować w miejscu mającym początek na  14metrze szerokości oraz27metrze długości statku
+kontener o id: 43 zapakować w miejscu mającym początek na  0metrze szerokości oraz8metrze długości statku
+kontener o id: 47 zapakować w miejscu mającym początek na  9metrze szerokości oraz12metrze długości statku
+kontener o id: 48 zapakować w miejscu mającym początek na  13metrze szerokości oraz5metrze długości statku
+kontener o id: 12 zapakować w miejscu mającym początek na  0metrze szerokości oraz0metrze długości statku
+kontener o id: 51 zapakować w miejscu mającym początek na  13metrze szerokości oraz18metrze długości statku
+kontener o id: 99 zapakować w miejscu mającym początek na  24metrze szerokości oraz5metrze długości statku
+kontener o id: 33 zapakować w miejscu mającym początek na  12metrze szerokości oraz12metrze długości statku
+kontener o id: 42 zapakować w miejscu mającym początek na  16metrze szerokości oraz5metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:18:48 2018
+
+Na statek o id: 3 należy zapakować 29 kontenerów zajmując przy tym98.5333% powierzchni statku. Poniżej przedstawiono ich położenie
+kontener o id: 67 zapakować w miejscu mającym początek na  1metrze szerokości oraz9metrze długości statku
+kontener o id: 20 zapakować w miejscu mającym początek na  0metrze szerokości oraz1metrze długości statku
+kontener o id: 87 zapakować w miejscu mającym początek na  0metrze szerokości oraz17metrze długości statku
+kontener o id: 81 zapakować w miejscu mającym początek na  5metrze szerokości oraz5metrze długości statku
+kontener o id: 34 zapakować w miejscu mającym początek na  5metrze szerokości oraz11metrze długości statku
+kontener o id: 39 zapakować w miejscu mającym początek na  10metrze szerokości oraz0metrze długości statku
+kontener o id: 53 zapakować w miejscu mającym początek na  6metrze szerokości oraz17metrze długości statku
+kontener o id: 60 zapakować w miejscu mającym początek na  10metrze szerokości oraz7metrze długości statku
+kontener o id: 35 zapakować w miejscu mającym początek na  13metrze szerokości oraz14metrze długości statku
+kontener o id: 96 zapakować w miejscu mającym początek na  14metrze szerokości oraz0metrze długości statku
+kontener o id: 69 zapakować w miejscu mającym początek na  14metrze szerokości oraz8metrze długości statku
+kontener o id: 52 zapakować w miejscu mającym początek na  13metrze szerokości oraz19metrze długości statku
+kontener o id: 86 zapakować w miejscu mającym początek na  0metrze szerokości oraz5metrze długości statku
+kontener o id: 11 zapakować w miejscu mającym początek na  0metrze szerokości oraz8metrze długości statku
+kontener o id: 25 zapakować w miejscu mającym początek na  2metrze szerokości oraz22metrze długości statku
+kontener o id: 41 zapakować w miejscu mającym początek na  17metrze szerokości oraz0metrze długości statku
+kontener o id: 4 zapakować w miejscu mającym początek na  1metrze szerokości oraz0metrze długości statku
+kontener o id: 10 zapakować w miejscu mającym początek na  1metrze szerokości oraz8metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:18:48 2018
+
+Na statek o id: 4 należy zapakować 18 kontenerów zajmując przy tym89.372% powierzchni statku. Poniżej przedstawiono ich położenie
+kontener o id: 90 zapakować w miejscu mającym początek na  2metrze szerokości oraz0metrze długości statku
+kontener o id: 65 zapakować w miejscu mającym początek na  0metrze szerokości oraz5metrze długości statku
+kontener o id: 3 zapakować w miejscu mającym początek na  0metrze szerokości oraz7metrze długości statku
+kontener o id: 45 zapakować w miejscu mającym początek na  0metrze szerokości oraz9metrze długości statku
+kontener o id: 92 zapakować w miejscu mającym początek na  0metrze szerokości oraz11metrze długości statku
+kontener o id: 19 zapakować w miejscu mającym początek na  0metrze szerokości oraz13metrze długości statku
+kontener o id: 68 zapakować w miejscu mającym początek na  0metrze szerokości oraz15metrze długości statku
+kontener o id: 100 zapakować w miejscu mającym początek na  0metrze szerokości oraz17metrze długości statku
+kontener o id: 71 zapakować w miejscu mającym początek na  0metrze szerokości oraz19metrze długości statku
+kontener o id: 31 zapakować w miejscu mającym początek na  0metrze szerokości oraz22metrze długości statku
+kontener o id: 59 zapakować w miejscu mającym początek na  5metrze szerokości oraz19metrze długości statku
+kontener o id: 22 zapakować w miejscu mającym początek na  5metrze szerokości oraz23metrze długości statku
+kontener o id: 83 zapakować w miejscu mającym początek na  6metrze szerokości oraz0metrze długości statku
+kontener o id: 29 zapakować w miejscu mającym początek na  8metrze szerokości oraz15metrze długości statku
+kontener o id: 40 zapakować w miejscu mającym początek na  8metrze szerokości oraz19metrze długości statku
+kontener o id: 75 zapakować w miejscu mającym początek na  8metrze szerokości oraz22metrze długości statku
+kontener o id: 55 zapakować w miejscu mającym początek na  9metrze szerokości oraz0metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:18:48 2018
+
+Na statek o id: 5 należy zapakować 17 kontenerów zajmując przy tym47.4074% powierzchni statku. Poniżej przedstawiono ich położenie
+
+
+polecenie pakowania z  Tue May 15 17:20:40 2018
+
+Na statek o id: 1 należy zapakować 20 kontenerów zajmując przy tym 100% powierzchni statku. Poniżej przedstawiono ich położenie 
+kontener o id: 62 zapakować w miejscu mającym początek na  0 metrze szerokości oraz8 metrze długości statku
+kontener o id: 70 zapakować w miejscu mającym początek na  0 metrze szerokości oraz15 metrze długości statku
+kontener o id: 1 zapakować w miejscu mającym początek na  8 metrze szerokości oraz15 metrze długości statku
+kontener o id: 15 zapakować w miejscu mającym początek na  0 metrze szerokości oraz1 metrze długości statku
+kontener o id: 73 zapakować w miejscu mającym początek na  9 metrze szerokości oraz0 metrze długości statku
+kontener o id: 8 zapakować w miejscu mającym początek na  0 metrze szerokości oraz22 metrze długości statku
+kontener o id: 44 zapakować w miejscu mającym początek na  9 metrze szerokości oraz9 metrze długości statku
+kontener o id: 76 zapakować w miejscu mającym początek na  14 metrze szerokości oraz15 metrze długości statku
+kontener o id: 13 zapakować w miejscu mającym początek na  15 metrze szerokości oraz0 metrze długości statku
+kontener o id: 49 zapakować w miejscu mającym początek na  8 metrze szerokości oraz24 metrze długości statku
+kontener o id: 21 zapakować w miejscu mającym początek na  17 metrze szerokości oraz8 metrze długości statku
+kontener o id: 59 zapakować w miejscu mającym początek na  17 metrze szerokości oraz23 metrze długości statku
+kontener o id: 98 zapakować w miejscu mającym początek na  0 metrze szerokości oraz0 metrze długości statku
+kontener o id: 36 zapakować w miejscu mającym początek na  0 metrze szerokości oraz7 metrze długości statku
+kontener o id: 16 zapakować w miejscu mającym początek na  6 metrze szerokości oraz0 metrze długości statku
+kontener o id: 17 zapakować w miejscu mającym początek na  14 metrze szerokości oraz23 metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:20:40 2018
+
+Na statek o id: 2 należy zapakować 16 kontenerów zajmując przy tym 98.5714% powierzchni statku. Poniżej przedstawiono ich położenie 
+kontener o id: 58 zapakować w miejscu mającym początek na  0 metrze szerokości oraz14 metrze długości statku
+kontener o id: 72 zapakować w miejscu mającym początek na  0 metrze szerokości oraz1 metrze długości statku
+kontener o id: 89 zapakować w miejscu mającym początek na  0 metrze szerokości oraz21 metrze długości statku
+kontener o id: 38 zapakować w miejscu mającym początek na  1 metrze szerokości oraz8 metrze długości statku
+kontener o id: 37 zapakować w miejscu mającym początek na  7 metrze szerokości oraz0 metrze długości statku
+kontener o id: 32 zapakować w miejscu mającym początek na  7 metrze szerokości oraz14 metrze długości statku
+kontener o id: 14 zapakować w miejscu mającym początek na  7 metrze szerokości oraz21 metrze długości statku
+kontener o id: 2 zapakować w miejscu mającym początek na  9 metrze szerokości oraz7 metrze długości statku
+kontener o id: 30 zapakować w miejscu mającym początek na  13 metrze szerokości oraz0 metrze długości statku
+kontener o id: 26 zapakować w miejscu mającym początek na  13 metrze szerokości oraz12 metrze długości statku
+kontener o id: 82 zapakować w miejscu mającym początek na  14 metrze szerokości oraz18 metrze długości statku
+kontener o id: 18 zapakować w miejscu mającym początek na  17 metrze szerokości oraz5 metrze długości statku
+kontener o id: 24 zapakować w miejscu mającym początek na  18 metrze szerokości oraz18 metrze długości statku
+kontener o id: 28 zapakować w miejscu mającym początek na  19 metrze szerokości oraz10 metrze długości statku
+kontener o id: 46 zapakować w miejscu mającym początek na  18 metrze szerokości oraz26 metrze długości statku
+kontener o id: 77 zapakować w miejscu mającym początek na  22 metrze szerokości oraz18 metrze długości statku
+kontener o id: 23 zapakować w miejscu mającym początek na  7 metrze szerokości oraz27 metrze długości statku
+kontener o id: 64 zapakować w miejscu mającym początek na  21 metrze szerokości oraz0 metrze długości statku
+kontener o id: 97 zapakować w miejscu mającym początek na  0 metrze szerokości oraz28 metrze długości statku
+kontener o id: 27 zapakować w miejscu mającym początek na  23 metrze szerokości oraz10 metrze długości statku
+kontener o id: 93 zapakować w miejscu mającym początek na  14 metrze szerokości oraz27 metrze długości statku
+kontener o id: 43 zapakować w miejscu mającym początek na  0 metrze szerokości oraz8 metrze długości statku
+kontener o id: 47 zapakować w miejscu mającym początek na  9 metrze szerokości oraz12 metrze długości statku
+kontener o id: 48 zapakować w miejscu mającym początek na  13 metrze szerokości oraz5 metrze długości statku
+kontener o id: 12 zapakować w miejscu mającym początek na  0 metrze szerokości oraz0 metrze długości statku
+kontener o id: 51 zapakować w miejscu mającym początek na  13 metrze szerokości oraz18 metrze długości statku
+kontener o id: 99 zapakować w miejscu mającym początek na  24 metrze szerokości oraz5 metrze długości statku
+kontener o id: 33 zapakować w miejscu mającym początek na  12 metrze szerokości oraz12 metrze długości statku
+kontener o id: 42 zapakować w miejscu mającym początek na  16 metrze szerokości oraz5 metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:20:40 2018
+
+Na statek o id: 3 należy zapakować 29 kontenerów zajmując przy tym 98.5333% powierzchni statku. Poniżej przedstawiono ich położenie 
+kontener o id: 67 zapakować w miejscu mającym początek na  1 metrze szerokości oraz9 metrze długości statku
+kontener o id: 20 zapakować w miejscu mającym początek na  0 metrze szerokości oraz1 metrze długości statku
+kontener o id: 87 zapakować w miejscu mającym początek na  0 metrze szerokości oraz17 metrze długości statku
+kontener o id: 81 zapakować w miejscu mającym początek na  5 metrze szerokości oraz5 metrze długości statku
+kontener o id: 34 zapakować w miejscu mającym początek na  5 metrze szerokości oraz11 metrze długości statku
+kontener o id: 39 zapakować w miejscu mającym początek na  10 metrze szerokości oraz0 metrze długości statku
+kontener o id: 53 zapakować w miejscu mającym początek na  6 metrze szerokości oraz17 metrze długości statku
+kontener o id: 60 zapakować w miejscu mającym początek na  10 metrze szerokości oraz7 metrze długości statku
+kontener o id: 35 zapakować w miejscu mającym początek na  13 metrze szerokości oraz14 metrze długości statku
+kontener o id: 96 zapakować w miejscu mającym początek na  14 metrze szerokości oraz0 metrze długości statku
+kontener o id: 69 zapakować w miejscu mającym początek na  14 metrze szerokości oraz8 metrze długości statku
+kontener o id: 52 zapakować w miejscu mającym początek na  13 metrze szerokości oraz19 metrze długości statku
+kontener o id: 86 zapakować w miejscu mającym początek na  0 metrze szerokości oraz5 metrze długości statku
+kontener o id: 11 zapakować w miejscu mającym początek na  0 metrze szerokości oraz8 metrze długości statku
+kontener o id: 25 zapakować w miejscu mającym początek na  6 metrze szerokości oraz21 metrze długości statku
+kontener o id: 41 zapakować w miejscu mającym początek na  17 metrze szerokości oraz0 metrze długości statku
+kontener o id: 4 zapakować w miejscu mającym początek na  0 metrze szerokości oraz22 metrze długości statku
+kontener o id: 10 zapakować w miejscu mającym początek na  1 metrze szerokości oraz0 metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:20:40 2018
+
+Na statek o id: 4 należy zapakować 18 kontenerów zajmując przy tym 90.0966% powierzchni statku. Poniżej przedstawiono ich położenie 
+kontener o id: 90 zapakować w miejscu mającym początek na  2 metrze szerokości oraz0 metrze długości statku
+kontener o id: 65 zapakować w miejscu mającym początek na  0 metrze szerokości oraz5 metrze długości statku
+kontener o id: 3 zapakować w miejscu mającym początek na  0 metrze szerokości oraz7 metrze długości statku
+kontener o id: 85 zapakować w miejscu mającym początek na  0 metrze szerokości oraz9 metrze długości statku
+kontener o id: 45 zapakować w miejscu mającym początek na  0 metrze szerokości oraz15 metrze długości statku
+kontener o id: 92 zapakować w miejscu mającym początek na  0 metrze szerokości oraz17 metrze długości statku
+kontener o id: 19 zapakować w miejscu mającym początek na  0 metrze szerokości oraz19 metrze długości statku
+kontener o id: 68 zapakować w miejscu mającym początek na  0 metrze szerokości oraz21 metrze długości statku
+kontener o id: 100 zapakować w miejscu mającym początek na  0 metrze szerokości oraz23 metrze długości statku
+kontener o id: 71 zapakować w miejscu mającym początek na  3 metrze szerokości oraz9 metrze długości statku
+kontener o id: 31 zapakować w miejscu mającym początek na  3 metrze szerokości oraz12 metrze długości statku
+kontener o id: 22 zapakować w miejscu mającym początek na  6 metrze szerokości oraz0 metrze długości statku
+kontener o id: 83 zapakować w miejscu mającym początek na  8 metrze szerokości oraz9 metrze długości statku
+kontener o id: 29 zapakować w miejscu mającym początek na  8 metrze szerokości oraz21 metrze długości statku
+kontener o id: 40 zapakować w miejscu mającym początek na  9 metrze szerokości oraz0 metrze długości statku
+kontener o id: 75 zapakować w miejscu mającym początek na  9 metrze szerokości oraz3 metrze długości statku
+kontener o id: 55 zapakować w miejscu mającym początek na  9 metrze szerokości oraz13 metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:20:40 2018
+
+Na statek o id: 5 należy zapakować 17 kontenerów zajmując przy tym 48.5185% powierzchni statku. Poniżej przedstawiono ich położenie 
+
+
+polecenie pakowania z  Tue May 15 17:21:37 2018
+
+Na statek o id: 1 należy zapakować 0 kontenerów zajmując przy tym 0% powierzchni statku. Poniżej przedstawiono ich położenie 
+
+
+polecenie pakowania z  Tue May 15 17:21:37 2018
+
+Na statek o id: 2 należy zapakować 0 kontenerów zajmując przy tym 0% powierzchni statku. Poniżej przedstawiono ich położenie 
+
+
+polecenie pakowania z  Tue May 15 17:21:37 2018
+
+Na statek o id: 3 należy zapakować 0 kontenerów zajmując przy tym 0% powierzchni statku. Poniżej przedstawiono ich położenie 
+
+
+polecenie pakowania z  Tue May 15 17:21:37 2018
+
+Na statek o id: 4 należy zapakować 0 kontenerów zajmując przy tym 0% powierzchni statku. Poniżej przedstawiono ich położenie 
+
+
+polecenie pakowania z  Tue May 15 17:21:37 2018
+
+Na statek o id: 5 należy zapakować 0 kontenerów zajmując przy tym 0% powierzchni statku. Poniżej przedstawiono ich położenie 
+
+
+polecenie pakowania z  Tue May 15 17:21:58 2018
+
+Na statek o id: 1 należy zapakować 20 kontenerów zajmując przy tym 100% powierzchni statku. Poniżej przedstawiono ich położenie 
+kontener o id: 62 zapakować w miejscu mającym początek na  0 metrze szerokości oraz8 metrze długości statku
+kontener o id: 70 zapakować w miejscu mającym początek na  0 metrze szerokości oraz15 metrze długości statku
+kontener o id: 1 zapakować w miejscu mającym początek na  8 metrze szerokości oraz15 metrze długości statku
+kontener o id: 15 zapakować w miejscu mającym początek na  0 metrze szerokości oraz1 metrze długości statku
+kontener o id: 73 zapakować w miejscu mającym początek na  9 metrze szerokości oraz0 metrze długości statku
+kontener o id: 8 zapakować w miejscu mającym początek na  0 metrze szerokości oraz22 metrze długości statku
+kontener o id: 44 zapakować w miejscu mającym początek na  9 metrze szerokości oraz9 metrze długości statku
+kontener o id: 76 zapakować w miejscu mającym początek na  14 metrze szerokości oraz15 metrze długości statku
+kontener o id: 13 zapakować w miejscu mającym początek na  15 metrze szerokości oraz0 metrze długości statku
+kontener o id: 49 zapakować w miejscu mającym początek na  8 metrze szerokości oraz24 metrze długości statku
+kontener o id: 21 zapakować w miejscu mającym początek na  17 metrze szerokości oraz8 metrze długości statku
+kontener o id: 59 zapakować w miejscu mającym początek na  17 metrze szerokości oraz23 metrze długości statku
+kontener o id: 98 zapakować w miejscu mającym początek na  0 metrze szerokości oraz0 metrze długości statku
+kontener o id: 36 zapakować w miejscu mającym początek na  0 metrze szerokości oraz7 metrze długości statku
+kontener o id: 16 zapakować w miejscu mającym początek na  6 metrze szerokości oraz0 metrze długości statku
+kontener o id: 17 zapakować w miejscu mającym początek na  14 metrze szerokości oraz23 metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:21:58 2018
+
+Na statek o id: 2 należy zapakować 16 kontenerów zajmując przy tym 98.5714% powierzchni statku. Poniżej przedstawiono ich położenie 
+kontener o id: 58 zapakować w miejscu mającym początek na  0 metrze szerokości oraz14 metrze długości statku
+kontener o id: 72 zapakować w miejscu mającym początek na  0 metrze szerokości oraz1 metrze długości statku
+kontener o id: 89 zapakować w miejscu mającym początek na  0 metrze szerokości oraz21 metrze długości statku
+kontener o id: 38 zapakować w miejscu mającym początek na  1 metrze szerokości oraz8 metrze długości statku
+kontener o id: 37 zapakować w miejscu mającym początek na  7 metrze szerokości oraz0 metrze długości statku
+kontener o id: 32 zapakować w miejscu mającym początek na  7 metrze szerokości oraz14 metrze długości statku
+kontener o id: 14 zapakować w miejscu mającym początek na  7 metrze szerokości oraz21 metrze długości statku
+kontener o id: 2 zapakować w miejscu mającym początek na  9 metrze szerokości oraz7 metrze długości statku
+kontener o id: 30 zapakować w miejscu mającym początek na  13 metrze szerokości oraz0 metrze długości statku
+kontener o id: 26 zapakować w miejscu mającym początek na  13 metrze szerokości oraz12 metrze długości statku
+kontener o id: 82 zapakować w miejscu mającym początek na  14 metrze szerokości oraz18 metrze długości statku
+kontener o id: 18 zapakować w miejscu mającym początek na  17 metrze szerokości oraz5 metrze długości statku
+kontener o id: 24 zapakować w miejscu mającym początek na  18 metrze szerokości oraz18 metrze długości statku
+kontener o id: 28 zapakować w miejscu mającym początek na  19 metrze szerokości oraz10 metrze długości statku
+kontener o id: 46 zapakować w miejscu mającym początek na  18 metrze szerokości oraz26 metrze długości statku
+kontener o id: 77 zapakować w miejscu mającym początek na  22 metrze szerokości oraz18 metrze długości statku
+kontener o id: 23 zapakować w miejscu mającym początek na  7 metrze szerokości oraz27 metrze długości statku
+kontener o id: 64 zapakować w miejscu mającym początek na  21 metrze szerokości oraz0 metrze długości statku
+kontener o id: 97 zapakować w miejscu mającym początek na  0 metrze szerokości oraz28 metrze długości statku
+kontener o id: 27 zapakować w miejscu mającym początek na  23 metrze szerokości oraz10 metrze długości statku
+kontener o id: 93 zapakować w miejscu mającym początek na  14 metrze szerokości oraz27 metrze długości statku
+kontener o id: 43 zapakować w miejscu mającym początek na  0 metrze szerokości oraz8 metrze długości statku
+kontener o id: 47 zapakować w miejscu mającym początek na  9 metrze szerokości oraz12 metrze długości statku
+kontener o id: 48 zapakować w miejscu mającym początek na  13 metrze szerokości oraz5 metrze długości statku
+kontener o id: 12 zapakować w miejscu mającym początek na  0 metrze szerokości oraz0 metrze długości statku
+kontener o id: 51 zapakować w miejscu mającym początek na  13 metrze szerokości oraz18 metrze długości statku
+kontener o id: 99 zapakować w miejscu mającym początek na  24 metrze szerokości oraz5 metrze długości statku
+kontener o id: 33 zapakować w miejscu mającym początek na  12 metrze szerokości oraz12 metrze długości statku
+kontener o id: 42 zapakować w miejscu mającym początek na  16 metrze szerokości oraz5 metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:21:58 2018
+
+Na statek o id: 3 należy zapakować 29 kontenerów zajmując przy tym 98.5333% powierzchni statku. Poniżej przedstawiono ich położenie 
+kontener o id: 67 zapakować w miejscu mającym początek na  1 metrze szerokości oraz9 metrze długości statku
+kontener o id: 20 zapakować w miejscu mającym początek na  0 metrze szerokości oraz1 metrze długości statku
+kontener o id: 87 zapakować w miejscu mającym początek na  0 metrze szerokości oraz17 metrze długości statku
+kontener o id: 81 zapakować w miejscu mającym początek na  5 metrze szerokości oraz5 metrze długości statku
+kontener o id: 34 zapakować w miejscu mającym początek na  5 metrze szerokości oraz11 metrze długości statku
+kontener o id: 39 zapakować w miejscu mającym początek na  10 metrze szerokości oraz0 metrze długości statku
+kontener o id: 53 zapakować w miejscu mającym początek na  6 metrze szerokości oraz17 metrze długości statku
+kontener o id: 60 zapakować w miejscu mającym początek na  10 metrze szerokości oraz7 metrze długości statku
+kontener o id: 35 zapakować w miejscu mającym początek na  13 metrze szerokości oraz14 metrze długości statku
+kontener o id: 96 zapakować w miejscu mającym początek na  14 metrze szerokości oraz0 metrze długości statku
+kontener o id: 69 zapakować w miejscu mającym początek na  14 metrze szerokości oraz8 metrze długości statku
+kontener o id: 52 zapakować w miejscu mającym początek na  13 metrze szerokości oraz19 metrze długości statku
+kontener o id: 86 zapakować w miejscu mającym początek na  0 metrze szerokości oraz5 metrze długości statku
+kontener o id: 11 zapakować w miejscu mającym początek na  0 metrze szerokości oraz8 metrze długości statku
+kontener o id: 25 zapakować w miejscu mającym początek na  6 metrze szerokości oraz21 metrze długości statku
+kontener o id: 41 zapakować w miejscu mającym początek na  17 metrze szerokości oraz0 metrze długości statku
+kontener o id: 4 zapakować w miejscu mającym początek na  0 metrze szerokości oraz22 metrze długości statku
+kontener o id: 10 zapakować w miejscu mającym początek na  1 metrze szerokości oraz0 metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:21:58 2018
+
+Na statek o id: 4 należy zapakować 18 kontenerów zajmując przy tym 90.0966% powierzchni statku. Poniżej przedstawiono ich położenie 
+kontener o id: 90 zapakować w miejscu mającym początek na  2 metrze szerokości oraz0 metrze długości statku
+kontener o id: 65 zapakować w miejscu mającym początek na  0 metrze szerokości oraz5 metrze długości statku
+kontener o id: 3 zapakować w miejscu mającym początek na  0 metrze szerokości oraz7 metrze długości statku
+kontener o id: 85 zapakować w miejscu mającym początek na  0 metrze szerokości oraz9 metrze długości statku
+kontener o id: 45 zapakować w miejscu mającym początek na  0 metrze szerokości oraz15 metrze długości statku
+kontener o id: 92 zapakować w miejscu mającym początek na  0 metrze szerokości oraz17 metrze długości statku
+kontener o id: 19 zapakować w miejscu mającym początek na  0 metrze szerokości oraz19 metrze długości statku
+kontener o id: 68 zapakować w miejscu mającym początek na  0 metrze szerokości oraz21 metrze długości statku
+kontener o id: 100 zapakować w miejscu mającym początek na  0 metrze szerokości oraz23 metrze długości statku
+kontener o id: 71 zapakować w miejscu mającym początek na  3 metrze szerokości oraz9 metrze długości statku
+kontener o id: 31 zapakować w miejscu mającym początek na  3 metrze szerokości oraz12 metrze długości statku
+kontener o id: 22 zapakować w miejscu mającym początek na  6 metrze szerokości oraz0 metrze długości statku
+kontener o id: 83 zapakować w miejscu mającym początek na  8 metrze szerokości oraz9 metrze długości statku
+kontener o id: 29 zapakować w miejscu mającym początek na  8 metrze szerokości oraz21 metrze długości statku
+kontener o id: 40 zapakować w miejscu mającym początek na  9 metrze szerokości oraz0 metrze długości statku
+kontener o id: 75 zapakować w miejscu mającym początek na  9 metrze szerokości oraz3 metrze długości statku
+kontener o id: 55 zapakować w miejscu mającym początek na  9 metrze szerokości oraz13 metrze długości statku
+
+
+polecenie pakowania z  Tue May 15 17:21:58 2018
+
+Na statek o id: 5 należy zapakować 17 kontenerów zajmując przy tym 48.5185% powierzchni statku. Poniżej przedstawiono ich położenie 
+
+
